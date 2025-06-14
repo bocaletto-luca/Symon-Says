@@ -6,6 +6,8 @@
 [![Made with JavaScript](https://img.shields.io/badge/Made%20with-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
 [![GitHub followers](https://img.shields.io/github/followers/bocaletto-luca?label=Follow&style=social)](https://github.com/bocaletto-luca)
 
+[![Test Online](https://img.shields.io/badge/Test%20Online-Click%20Here-brightgreen?style=for-the-badge)](https://bocaletto-luca.github.io/Symon-Says/)
+
 **Simon Says - Classic Memory Game** is a modern, responsive single‑page web game that challenges your memory by requiring you to repeat an increasingly long sequence of colored cues. Built using HTML, CSS, and JavaScript, it features dynamic difficulty adjustments, smooth animations, and a sleek dark theme.
 
 ---
